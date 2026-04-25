@@ -18,6 +18,25 @@ This project was developed to practice frontend implementation of high-fidelity 
 
 ## 🎓 Academic Context
 This project is part of my ongoing development as a Computer Science student at **Nnamdi Azikiwe University (UNIZIK)**. It reflects my interest in pursuing graduate research in **Human-Computer Interaction** and **Computer Vision** at institutions like **GIST**, **POSTECH**, or **UNIST**.
+## 🎨 UI/UX & Research Implementation
+
+### High-Fidelity Diagnostic Dashboard
+The current iteration of the LuminaSkin interface focuses on **Longitudinal Data Analysis** and **Clinical Context**. By moving beyond a simple classification output, the UI now supports a clinician's workflow by providing historical comparisons and patient metadata.
+
+#### Key Features:
+* **Temporal Tracking:** Implementation of a horizontal carousel to monitor lesion evolution over time, utilizing unique `patient_id` strings from the ISIC Archive.
+* **Clinical Metadata Integration:** Displays essential patient context including age, anatomical site, and image acquisition type (Dermoscopic) to reduce diagnostic bias.
+* **Heuristic Alignment:** Follows standard medical software design patterns to ensure high scannability and low cognitive load during analysis.
+
+#### Data Provenance
+Images and metadata used in these prototypes are sourced from the **ISIC (International Skin Imaging Collaboration) Archive**, ensuring that the UI is grounded in real-world dermatological research data.
+
+| Feature | Status | Description |
+| :--- | :--- | :--- |
+| Image Analysis | ✅ Complete | 98% Confidence score display |
+| History View | ✅ Complete | Horizontal scroll for past scans |
+| Metadata | ✅ Complete | Patient context & ISIC ID tracking |<img width="434" height="1117" alt="LuminaSkin 3- Research Prototype" src="https://github.com/user-attachments/assets/1b7d052e-6c20-4d4d-8316-20855883ee44" />
+
 
 ---
 *Created by [peace]*
