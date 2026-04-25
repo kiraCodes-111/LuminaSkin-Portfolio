@@ -1,3 +1,4 @@
+<img width="434" height="1117" alt="LuminaSkin 3- Research Prototype" src="https://github.com/user-attachments/assets/5c348f06-9e5f-4f48-a0a0-840d068833d4" />
 # LuminaSkin AI | Video Portfolio & UI Prototype
 
 LuminaSkin is a concept project exploring the intersection of **Computer Vision** and **Dermatological Accessibility**. This web-based prototype serves as a visual gallery to demonstrate AI-driven skincare analysis and augmented reality (AR) skin-texture mapping.
@@ -35,8 +36,7 @@ Images and metadata used in these prototypes are sourced from the **ISIC (Intern
 | :--- | :--- | :--- |
 | Image Analysis | ✅ Complete | 98% Confidence score display |
 | History View | ✅ Complete | Horizontal scroll for past scans |
-| Metadata | ✅ Complete | Patient context & ISIC ID tracking |<img width="434" height="1117" alt="LuminaSkin 3- Research Prototype" src="https://github.com/user-attachments/assets/1b7d052e-6c20-4d4d-8316-20855883ee44" />
-
+| Metadata | ✅ Complete | Patient context & ISIC ID tracking |
 
 ---
 *Created by [peace]*
